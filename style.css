@@ -39,7 +39,7 @@ main{
     box-sizing: border-box; /* Include border in the height */
 }
 
-main object {
-    width: 60%;
+main iframe {
+    width: 50%;
     height: 100%;
 }
